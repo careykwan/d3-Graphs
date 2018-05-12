@@ -1,0 +1,23 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "d3 examples",
+  "main": "index.html",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hello"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "carey",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.3.1"
+  }
+}

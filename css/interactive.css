@@ -1,0 +1,26 @@
+.div{
+	/*width: 900px;*/
+	margin-left: 200px;
+
+}
+
+h1{
+	text-align: center;
+	color: #E08283;
+	font-size: 56px;
+}
+
+#controls {
+	height: 600px;
+	width: 400px;
+	background-color: yellow;
+	float: right;
+	margin-right: 200px;
+}
+
+
+
+.svgRound{
+	width: 800px;
+	
+}
